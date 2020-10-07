@@ -43,7 +43,18 @@
     "imageResize": true,
     "uniqCompNum": 8,
     "versionPublish": "5.1.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "site_lang": "undefined",
+    "witsec-white-label": false,
+    "witsec-language": false,
+    "witsec-mailform": false
   },
   "pages": {
     "index.html": {
