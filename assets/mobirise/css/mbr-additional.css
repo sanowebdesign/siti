@@ -712,6 +712,9 @@ a {
     padding: 4rem;
   }
 }
+.cid-see8uw7Erh .card-title {
+  color: #ff6666;
+}
 .cid-see9nV29tH {
   padding-top: 2rem;
   padding-bottom: 0rem;
@@ -739,4 +742,7 @@ a {
 }
 .cid-see9nV29tH .mbr-figure iframe {
   width: 100%;
+}
+.cid-see9nV29tH .mbr-section-title {
+  color: #ff6666;
 }
